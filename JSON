@@ -1,0 +1,16 @@
+
+
+JSON for Attached Image
+
+
+{"mails_count":344,"gmail_content":
+[{"from":me,"subject":"Test email","body":"This is test email","date":"oct 26,"star":"off ","label":"on",
+"image":"\/dg7NuKDjmS6OzuNy33qt8kSkPA1.jpg"},
+{"from":"WordPress.com News","subject":"Best visiting places","body":"Most amazing places around the world",
+"date":"22 oct","star":"off","image":"\/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg"},
+{"from":"Sochert thes,"subject":"I would like to add you in proffessional site","body":"Linkedin friend wants to add you",
+"date":"oct 20","star":"off ","label":"on","image":"\/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg},
+{"from":,"subject":"bigTech","body":,"date":"oct 18","star":"off ","image":"\/ye4oayd3csx8psElvvQPdO2fgdD.jpg},
+{"from":000,"subject":"Free hosting in India","body":,"date":"oct 16","star":"off ","label":"on",
+"image":"\/pfTlxypaLQ8KHecKrD7EFcAzEUs.jpg"}]}
+
